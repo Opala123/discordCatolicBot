@@ -5,7 +5,7 @@ import random
 from googlesearch import search
 import re
 intents = discord.Intents.all()
-intents.messages = True  # Habilita o intent para receber mensagens
+intents.messages = True  
 intents.reactions = True
 
 bot = commands.Bot(command_prefix='!', intents=intents)

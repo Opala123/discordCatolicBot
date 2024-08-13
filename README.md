@@ -1,11 +1,11 @@
 # discordCatolicBot
 
 
-### BOT CATÓLICO
+## BOT CATÓLICO
 
 Provavelmente esse é o primeiro bot católico brasileiro do discord. Logo abaixo forneço o código fonte nele você deve alterar apenas o token para o SEU token (caso não saiba como segue um exemplo genérico abaixo).
 
-*exemplo genérico de como obter token para colocar no bot*
+*##exemplo genérico de como obter token para colocar no bot*
 
 1. Acessar o Discord Developer Portal
 Vá para o Discord Developer Portal.
@@ -29,3 +29,5 @@ Em SCOPES, selecione "bot".
 Em BOT PERMISSIONS, selecione as permissões que você deseja que seu bot tenha.
 Copie o link gerado em Generated URL e cole-o no navegador.
 Escolha o servidor no qual deseja adicionar o bot e autorize.
+
+## Comandos disponíveis:

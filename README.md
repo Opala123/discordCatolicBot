@@ -29,7 +29,7 @@ Escolha o servidor no qual deseja adicionar o bot e autorize.
 
 # Comandos disponíveis:
 
-### 1 - !rosarium 
+### 1 -    !rosarium 
 
 Manual: Esse é o comando mais simples e mais completo digite siga o passo a passo.
 
@@ -38,4 +38,16 @@ Demonstração:
 ![image](https://github.com/user-attachments/assets/bc9a9c31-d7d2-44a1-b0ca-5f80ec26bd4a)
 
 ![image](https://github.com/user-attachments/assets/7dd3a637-3abc-4f6f-bad8-7f272cabe594)
+
+### 2 -   !livro 
+
+Manual: Digite o comando e busque por algum livro.
+
+Demonstração:
+
+![image](https://github.com/user-attachments/assets/81785778-909b-40e6-9b85-2048af66bd48)
+
+Ao digitar você pode alternar até encontrar o pdf correspondente ao seu livro
+
+![image](https://github.com/user-attachments/assets/7b8c4938-ee66-46c4-81fd-034cdf683a74)
 

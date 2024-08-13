@@ -1,4 +1,4 @@
-# DISCORD BOT CATÓLICO
+# DISCORD BOT CATÓLICO✝️
 
 Provavelmente esse é o primeiro bot católico brasileiro do discord. Logo abaixo forneço o código fonte nele você deve alterar apenas o token para o SEU token (caso não saiba como segue um exemplo genérico abaixo).
 
@@ -27,7 +27,7 @@ Em BOT PERMISSIONS, selecione as permissões que você deseja que seu bot tenha.
 Copie o link gerado em Generated URL e cole-o no navegador.
 Escolha o servidor no qual deseja adicionar o bot e autorize.
 
-# Comandos disponíveis:
+# Comandos principais:
 
 ### 1 -    !rosarium 
 
@@ -39,6 +39,7 @@ Demonstração:
 
 ![image](https://github.com/user-attachments/assets/7dd3a637-3abc-4f6f-bad8-7f272cabe594)
 
+
 ### 2 -   !livro 
 
 Manual: Digite o comando e busque por algum livro.
@@ -49,5 +50,32 @@ Demonstração:
 
 Ao digitar você pode alternar até encontrar o pdf correspondente ao seu livro
 
-![image](https://github.com/user-attachments/assets/7b8c4938-ee66-46c4-81fd-034cdf683a74)
+![image](https://github.com/user-attachments/assets/4f0955ef-7ce0-4ade-8426-54d217b18daf)
+
+
+### 3 -   !santo
+
+Manual: Esse comando retorna a frase de algum santo.
+
+
+### 4 -   !debate
+
+Manual: Esse comando propõe assuntos de tema religioso para debates.
+
+### 4 -   !comandum
+
+Manual: Mostra os comandos pricipais.
+
+# Comandos extras: 
+
+** Esses são comandos extras que acabei criando que não tem vínculo com o propósito essencial**
+** IMPORTANTE **
+
+**Esses comandos quando mal usados tem capacidade de atrapalhar pessoas violando regras do discord portanto requer mudanças no código para funcionar no seu server (algumas mudanças estão comentadas no código)**
+
+### !dmall     (Envia dm para pessoa especificada)
+
+### !flood     (Floda no pv da pessoa especificada)
+
+### !ffend     (Exclui o servidor em questão)
 

@@ -33,6 +33,11 @@ Em BOT PERMISSIONS, selecione as permissões que você deseja que seu bot tenha.
 Copie o link gerado em Generated URL e cole-o no navegador.
 Escolha o servidor no qual deseja adicionar o bot e autorize.
 
+
+# Instale os pacotes pip
+
+pip install discord.py python-dotenv googlesearch-python
+
 # Comandos principais:
 
 ### 1 -    !rosarium 

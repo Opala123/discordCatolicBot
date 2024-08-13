@@ -1,5 +1,9 @@
 # DISCORD BOT CATÓLICO✝️
 
+# Resumo de sua origem
+
+Fui contactado por um fiel recém formado a padre que fazia orações do terço no discord, algumas pessoas novas ficavam desorientadas por não saber a sequência do rosário portanto esse bot conta com o objetivo principal de ajudar as pessoas dessa comunidade virtual a ensinarem novas pessoas a tradição do terço/rosário . 
+
 Provavelmente esse é o primeiro bot católico brasileiro do discord. Logo abaixo forneço o código fonte nele você deve alterar apenas o token para o SEU token (caso não saiba como segue um exemplo genérico abaixo).
 
 *OBS: exemplo totalmente genérico de como obter token para colocar no bot*
@@ -40,6 +44,11 @@ Demonstração:
 ![image](https://github.com/user-attachments/assets/7dd3a637-3abc-4f6f-bad8-7f272cabe594)
 
 
+As orações em latim contam com links anexados a vídeos com voz para treinar a pronúncia
+
+![image](https://github.com/user-attachments/assets/739c7098-3da7-4213-8260-4f1677549551)
+
+
 ### 2 -   !livro 
 
 Manual: Digite o comando e busque por algum livro.
@@ -50,7 +59,7 @@ Demonstração:
 
 Ao digitar você pode alternar até encontrar o pdf correspondente ao seu livro
 
-![image](https://github.com/user-attachments/assets/4f0955ef-7ce0-4ade-8426-54d217b18daf)
+![image](https://github.com/user-attachments/assets/48c2fb88-6584-41e2-840a-b08c751a9390)
 
 
 ### 3 -   !santo
@@ -68,14 +77,19 @@ Manual: Mostra os comandos pricipais.
 
 # Comandos extras: 
 
-** Esses são comandos extras que acabei criando que não tem vínculo com o propósito essencial**
-** IMPORTANTE **
+* Esses são comandos extras que acabei criando que não tem vínculo com o propósito essencial*
 
-**Esses comandos quando mal usados tem capacidade de atrapalhar pessoas violando regras do discord portanto requer mudanças no código para funcionar no seu server (algumas mudanças estão comentadas no código)**
+###  IMPORTANTE 
+
+**☠️ Esses comandos quando mal usados tem capacidade de atrapalhar pessoas violando regras do discord portanto requer mudanças no código para funcionar no seu server (algumas mudanças estão comentadas no código)**
 
 ### !dmall     (Envia dm para pessoa especificada)
 
-### !flood     (Floda no pv da pessoa especificada)
+### !flood     (Floda no pv da pessoa especificada de acordo com o range desejado)
 
-### !ffend     (Exclui o servidor em questão)
+### !ffend     (Exclui o servidor em questão criando novos canais de texto)
+
+# Conclusão
+
+Esse é um overview de algumas funcionalidades que resolvi documentar. Caso queira maiores informações entre em contato comigo!
 

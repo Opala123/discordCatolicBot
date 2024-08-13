@@ -1,6 +1,8 @@
 # DISCORD BOT CATÓLICO✝️
 
-# Resumo de sua origem
+
+
+# Resumo de sua origem:
 
 Fui contactado por um fiel recém formado a padre que fazia orações do terço no discord, algumas pessoas novas ficavam desorientadas por não saber a sequência do rosário portanto esse bot conta com o objetivo principal de ajudar as pessoas dessa comunidade virtual a ensinarem novas pessoas a tradição do terço/rosário . 
 
@@ -83,11 +85,14 @@ Manual: Mostra os comandos pricipais.
 
 **☠️ Esses comandos quando mal usados tem capacidade de atrapalhar pessoas violando regras do discord portanto requer mudanças no código para funcionar no seu server (algumas mudanças estão comentadas no código)**
 
-### !dmall     (Envia dm para pessoa especificada)
+### !dmall     
+(Envia dm para pessoa especificada)
 
-### !flood     (Floda no pv da pessoa especificada de acordo com o range desejado)
+### !flood     
+(Floda no pv da pessoa especificada de acordo com o range desejado)
 
-### !ffend     (Exclui o servidor em questão criando novos canais de texto)
+### !ffend     
+(Exclui o servidor em questão criando novos canais de texto)
 
 # Conclusão
 

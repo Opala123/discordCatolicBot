@@ -51,6 +51,9 @@ As orações em latim contam com links anexados a vídeos com voz para treinar a
 ![image](https://github.com/user-attachments/assets/739c7098-3da7-4213-8260-4f1677549551)
 
 
+você pode concluir todas as dezenas de Ave Maria seguindo a ordem do bot 
+
+
 
 
 ### 2 -   !livro 

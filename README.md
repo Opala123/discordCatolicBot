@@ -1,7 +1,7 @@
 # discordCatolicBot
 
 
-## BOT CATÓLICO
+# BOT CATÓLICO
 
 Provavelmente esse é o primeiro bot católico brasileiro do discord. Logo abaixo forneço o código fonte nele você deve alterar apenas o token para o SEU token (caso não saiba como segue um exemplo genérico abaixo).
 
@@ -31,3 +31,14 @@ Copie o link gerado em Generated URL e cole-o no navegador.
 Escolha o servidor no qual deseja adicionar o bot e autorize.
 
 ## Comandos disponíveis:
+
+1 - !rosarium 
+
+manual: Esse é o comando mais simples e mais completo digite siga o passo a passo.
+
+ex: 
+
+![image](https://github.com/user-attachments/assets/bc9a9c31-d7d2-44a1-b0ca-5f80ec26bd4a)
+
+![image](https://github.com/user-attachments/assets/7dd3a637-3abc-4f6f-bad8-7f272cabe594)
+

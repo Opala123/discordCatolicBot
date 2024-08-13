@@ -51,6 +51,8 @@ As orações em latim contam com links anexados a vídeos com voz para treinar a
 ![image](https://github.com/user-attachments/assets/739c7098-3da7-4213-8260-4f1677549551)
 
 
+
+
 ### 2 -   !livro 
 
 Manual: Digite o comando e busque por algum livro.
@@ -64,18 +66,26 @@ Ao digitar você pode alternar até encontrar o pdf correspondente ao seu livro
 ![image](https://github.com/user-attachments/assets/48c2fb88-6584-41e2-840a-b08c751a9390)
 
 
+
+
 ### 3 -   !santo
 
 Manual: Esse comando retorna a frase de algum santo.
+
+
 
 
 ### 4 -   !debate
 
 Manual: Esse comando propõe assuntos de tema religioso para debates.
 
+
+
 ### 4 -   !comandum
 
 Manual: Mostra os comandos principais.
+
+
 
 # Comandos extras: 
 
@@ -85,14 +95,19 @@ Manual: Mostra os comandos principais.
 
 **☠️ Esses comandos quando mal usados tem capacidade de atrapalhar pessoas violando regras do discord portanto requer mudanças no código para funcionar no seu server (algumas mudanças estão comentadas no código)**
 
+
 ### !dmall     
 (Envia dm para pessoa especificada)
+
 
 ### !flood     
 (Floda no pv da pessoa especificada de acordo com o range desejado)
 
+
 ### !ffend     
 (Exclui o servidor em questão criando novos canais de texto)
+
+
 
 # Conclusão
 

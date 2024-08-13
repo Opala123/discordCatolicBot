@@ -75,7 +75,7 @@ Manual: Esse comando propõe assuntos de tema religioso para debates.
 
 ### 4 -   !comandum
 
-Manual: Mostra os comandos pricipais.
+Manual: Mostra os comandos principais.
 
 # Comandos extras: 
 

@@ -2,7 +2,7 @@
 
 Provavelmente esse é o primeiro bot católico brasileiro do discord. Logo abaixo forneço o código fonte nele você deve alterar apenas o token para o SEU token (caso não saiba como segue um exemplo genérico abaixo).
 
-*OBS: exemplo genérico de como obter token para colocar no bot*
+*OBS: exemplo totalmente genérico de como obter token para colocar no bot*
 
 1. Acessar o Discord Developer Portal
 Vá para o Discord Developer Portal.
